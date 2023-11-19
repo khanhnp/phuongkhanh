@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+nav
+{
+	position: fixed;
+	width : 100%;
+	padding : 5px;
+	background-color: rgba(255,255,255,0.8);
+	box-shadow: 0 5px 10px #ddd;
+	border: none
+}
+section
+{
+min-height: 800px;
+	padding: 100px 0
+}
+footer
+{
+	padding: 50px 0;
+	background-color: #f6d9c3
+}
+nav .menu a
+{
+	text-decoration: none; color: #333; font-weight: 800;
+	padding: 10px 30px;
+	font-size: 18px;
+	
+}
+nav .menu a:hover
+{
+	border-bottom: 2px solid rgba(39,105,218,1.00)
+}
+
+.bg-primary
+{
+background-color: #f6d9c3;
+padding: 10px 20px;
+text-decoration: none;
+font-weight: bold;
+color: #000000;
+font-size: 20px;
+	
+	
+}
+.bg-1
+{
+	height: 300px;
+        width: 1400px;
+        background-color: #F6D9C3;
+        background-repeat: no-repeat;
+       
+        background-size: contain;
+}
+
+
+
+
+
+
+
+
